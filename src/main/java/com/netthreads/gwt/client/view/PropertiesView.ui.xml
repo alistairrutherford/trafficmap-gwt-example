@@ -1,0 +1,20 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		.propertiesViewPanel {
+			padding-left: 10px;
+		}
+	</ui:style>
+	<g:HTMLPanel addStyleNames="{style.propertiesViewPanel}">
+		<g:DecoratorPanel width="0" height="0">
+			<g:VerticalPanel>
+			<g:Label ui:field="category"/>
+			<g:Label ui:field="road"/>
+			<g:Label ui:field="region"/>
+			<g:Label ui:field="county"/>
+			<g:Label ui:field="publishdate"/>
+		</g:VerticalPanel>
+		</g:DecoratorPanel>
+	</g:HTMLPanel>
+</ui:UiBinder> 

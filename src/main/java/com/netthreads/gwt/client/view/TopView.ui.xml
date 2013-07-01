@@ -1,0 +1,13 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+	.topViewPanel {
+		padding-bottom: 10px;
+		padding-top: 10px;
+		background-color: navy;
+	}
+	</ui:style>
+	<g:HTMLPanel addStyleNames="{style.topViewPanel}">
+	</g:HTMLPanel>
+</ui:UiBinder> 

@@ -1,0 +1,12 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+	.mapViewPanel {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	</ui:style>
+	<g:HTMLPanel ui:field="mainPanel" addStyleNames="{style.mapViewPanel}" >
+	</g:HTMLPanel>
+</ui:UiBinder> 
