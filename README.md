@@ -7,6 +7,7 @@ Example GWT map application which uses GWT Leaflet.
 - GWT Leaflet map.
 - Mavenized.
 - Custom 'selection' styling for table i.e. selects whole line.
+- Working example of a composite UIBinder view.
 
 Complete instructions to build, debug and deploy here:
 
