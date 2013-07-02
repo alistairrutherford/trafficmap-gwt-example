@@ -6,7 +6,7 @@ Example GWT map application which uses GWT Leaflet.
 - Model View Presenter design.
 - GWT Leaflet map.
 - Mavenized.
-- Custom styling for table.
+- Custom 'selection' styling for table i.e. selects whole line.
 
 Complete instructions to build, debug and deploy here:
 
