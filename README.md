@@ -12,6 +12,8 @@ Complete instructions to build, debug and deploy here:
 
 https://github.com/alistairrutherford/trafficmap-gwt-example/wiki/Build-Instructions
 
+![Example](https://github.com/alistairrutherford/images/raw/master/trafficmap-gwt-example.png) 
+
 License
 --------
 [Copyright - Alistair Rutherford 2013 - www.netthreads.co.uk]
