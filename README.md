@@ -8,7 +8,9 @@ Example GWT map application which uses GWT Leaflet.
 - Mavenized.
 - Custom styling for table.
 
-You will need to build the 0.3-SNAPSHOT version of the gwt Leaflet project.
+Complete instructions to build, debug and deploy here:
+
+https://github.com/alistairrutherford/trafficmap-gwt-example/wiki/Build-Instructions
 
 License
 --------
