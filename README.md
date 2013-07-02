@@ -8,7 +8,7 @@ Example GWT map application which uses GWT Leaflet.
 - Mavenized.
 - Custom 'selection' styling for table i.e. selects whole line.
 - Working example of a composite UIBinder view.
-- JSON to javascript POJO object AJAX 'load'.
+- JSON to javascript object asynchronous 'load'.
 
 Complete instructions to build, debug and deploy here:
 
