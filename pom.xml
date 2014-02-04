@@ -112,9 +112,6 @@
 				</configuration>
 			</plugin>
 			
-			
-			<!-- REMEMBER ANY THIRD PARTY JARS SHOULD BE MARKED AS 'EXPORTED' FROM 
-				THE 'Order and Export' TAB TO BE AVAILABLE WHEN RUNNING THROUGH THE ADT. -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-eclipse-plugin</artifactId>
